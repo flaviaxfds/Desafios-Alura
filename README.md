@@ -1,6 +1,8 @@
 # Desafios Alura
 
-## O objetivo dos desafios do Alura é focada em prática para melhorar ainda mais a experiência de aprendizagem. São 10 desafios no total numerados de 0 a 9.
+## O objetivo dos desafios do Alura é focada em prática para melhorar ainda mais a experiência de aprendizagem. São 10 desafios no total numerados de 0 a 9. 
+
+## O index.html foi utilizado para testar os desafios.
 
 - 0️⃣ Mostre um alerta com a mensagem "Boas vindas ao nosso site!".
 
