@@ -3,9 +3,9 @@ Praticar a lógica de programação, incluindo conceitos como variáveis, condic
 
 Compreender esses conceitos não apenas facilita o aprendizado de novas linguagens e tecnologias, mas também capacita você a criar soluções inovadoras, depurar eficientemente e manter a qualidade ao longo do ciclo de vida do software. Portanto, investir tempo nesses princípios desde cedo é fundamental para construir uma base sólida e bem-sucedida no campo da programação.
 
-### O objetivo dos desafios do Alura é focada em prática para melhorar ainda mais a experiência de aprendizagem. São 10 desafios no total numerados de 0 a 9. 
+## O objetivo dos desafios do Alura é focada em prática para melhorar ainda mais a experiência de aprendizagem. São 10 desafios no total numerados de 0 a 9. 
 
-### O index.html foi utilizado para testar os desafios.
+ O index.html foi utilizado para testar os desafios.
 
 - 0️⃣ Mostre um alerta com a mensagem "Boas vindas ao nosso site!".
 
